@@ -6,7 +6,7 @@ permalink: /publication/2025-G-solver
 excerpt: 'This extended abstract is about G-solver, a fully probabilistic framework for continuous-time SLAM that integrates Gaussian Processes (GP) within a distributed Gaussian Belief Propagation (GBP) inference scheme.'
 date: 20-10-2025
 venue: 'CroCoDL - ICCV 2025 Workshop on Large Scale Cross Device Localization'
-paperurl: 'https://davide-ceriola.github.io/files/_ICCV_2025__G_solver.pdf'
+paperurl: 'https://davide-ceriola.github.io/files/ICCV_2025_G_solver.pdf'
 slidesurl: 'https://davide-ceriola.github.io/files/ICCV_2025_poster.pdf'
 citation: 'D Ceriola and S Ferrari, et al. &quot;G-solver: Gaussian Belief Propagation and Gaussian Processes for Continuous-Time SLAM; Extended abstract at <i>CroCoDL - ICCV 2025</i>.'
 ---
